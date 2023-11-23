@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hi! 
 
-<!--
-**Noe2781/Noe2781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ejemplo de README para perfil de github
 
-Here are some ideas to get you started:
+- [Pagina de iconos](https://github.com/tandpfun/skill-icons)
+
+- Lenguajes: [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/Erick-C3)
+- Tecnologias: [![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://github.com/Erick-C3)
+- Framework: [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,react)](https://github.com/Erick-C3)
+
+- [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
